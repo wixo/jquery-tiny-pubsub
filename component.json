@@ -21,7 +21,7 @@
     }
   ],
   "dependencies": {
-    "jquery": "1.7",
+    "jquery": "1.7"
   },
   "keywords": ["pub", "sub", "pubsub", "event", "subscribe", "publish", "trigger"]
 }
