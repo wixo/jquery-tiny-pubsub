@@ -8,6 +8,7 @@
     "name": "\"Cowboy\" Ben Alman",
     "url": "http://benalman.com/"
   },
+  "main": "dist/ba-tiny-pubsub.min.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/cowboy/jquery-tiny-pubsub.git"
